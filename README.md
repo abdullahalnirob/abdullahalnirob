@@ -1,94 +1,24 @@
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey there, I'm Abdullah Al Nirob!
-</h1>
 
-<p align="center">
-  <b>MERN Stack Developer</b> from 🇧🇩 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/20px-Flag_of_Bangladesh.svg.png" width="20" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dev.abdullahalnirob) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.abdullahalnirob) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdullahN66467) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahalnirob12@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdullahalnirob&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdullahalnirob&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnirob&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🛠️ Tech Stack I Work With
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Brave Browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdullahalnirob&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdullahalnirob&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abdullahalnirob&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔥 Open Source Contributions
-<table>
-  <thead align="center">
-    <tr>
-      <th>📦 Projects</th>
-      <th>⭐ Stars</th>
-      <th>🔀 Forks</th>
-      <th>❗ Issues</th>
-      <th>📬 PRs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Project 1 -->
-    <tr>
-      <td><a href="https://github.com/Abdullah-Al-Nirob/hobbyhub"><b>HobbyHub</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/Abdullah-Al-Nirob/hobbyhub?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/forks/Abdullah-Al-Nirob/hobbyhub?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/issues/Abdullah-Al-Nirob/hobbyhub?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Abdullah-Al-Nirob/hobbyhub?style=flat-square"/></td>
-    </tr>
-    <!-- Project 2 -->
-    <tr>
-      <td><a href="https://github.com/Abdullah-Al-Nirob/samusa-blog"><b>Samusa Blog</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/Abdullah-Al-Nirob/samusa-blog?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/forks/Abdullah-Al-Nirob/samusa-blog?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/issues/Abdullah-Al-Nirob/samusa-blog?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Abdullah-Al-Nirob/samusa-blog?style=flat-square"/></td>
-    </tr>
-    <!-- Project 3 -->
-    <tr>
-      <td><a href="https://github.com/Abdullah-Al-Nirob/mern-social-app"><b>MERN Social App</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/Abdullah-Al-Nirob/mern-social-app?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/forks/Abdullah-Al-Nirob/mern-social-app?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/issues/Abdullah-Al-Nirob/mern-social-app?style=flat-square"/></td>
-      <td><img src="https://img.shields.io/github/issues-pr/Abdullah-Al-Nirob/mern-social-app?style=flat-square"/></td>
-    </tr>
-  </tbody>
-</table>
-
-
----
-
-### 📝 Latest Blog Posts
-<ul>
-  <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98" target="_blank"><b>🧩 How You Should Structure Your React Applications</b></a></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8" target="_blank"><b>🚀 Pro Tips to Help You Get Started With Your Side Project</b></a></li>
-  <li><a href="https://medium.com/better-programming/7-new-features-shipping-with-es2020-7a2721f710fb" target="_blank"><b>✨ 7 New Features Shipping With ES2020</b></a></li>
-</ul>
-
----
-
-### 🌐 Where to Find Me
-<p align="center">
-  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">⚡ This README refreshes every 3 hours. <br/> Last updated: <!-- Add date dynamically if using GitHub Action --></p>
-<p align="center">
-  <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
-  <img src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
