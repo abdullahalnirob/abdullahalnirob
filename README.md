@@ -1,4 +1,4 @@
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! there, I'm Abdullah Al Nirob.</h1>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dev.abdullahalnirob) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.abdullahalnirob) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdullahN66467) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahalnirob12@gmail.com) 
 
