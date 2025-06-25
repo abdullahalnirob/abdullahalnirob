@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> 
+  <img src="https://i.ibb.co/G3B041fQ/90319b06-2c30-467e-8704-f9d6d4d1d1fc.png" width="50"/> 
   Hey there, I'm <span style="color:#0aad00;">Abdullah Al Nirob</span> 👋
 </h1>
 
