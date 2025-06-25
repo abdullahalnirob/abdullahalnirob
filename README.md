@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://i.ibb.co/G3B041fQ/90319b06-2c30-467e-8704-f9d6d4d1d1fc.png" width="50"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> 
   Hey there, I'm <span style="color:#0aad00;">Abdullah Al Nirob</span> 👋
 </h1>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Banner" width="400" />
+  <img src="https://i.ibb.co/G3B041fQ/90319b06-2c30-467e-8704-f9d6d4d1d1fc.png" alt="Banner" width="800" />
 </p>
 
 ---
