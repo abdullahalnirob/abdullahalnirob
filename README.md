@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/G3B041fQ/90319b06-2c30-467e-8704-f9d6d4d1d1fc.png" alt="Banner" width="800" />
+  <img src="https://i.ibb.co/Q7n857V6/banner.png" alt="Banner" width="800" />
 </p>
 
 ---
